@@ -7,7 +7,7 @@ A government AI assistant can help people find information about public services
 
 ## Software
 
-Software updates can change different parts of a program. For a government AI assistant, the MAJOR version increases when a change to the public API is not compatible with previous versions. The MINOR version increases when a new feature is added in a backward-compatible way. The PATCH version increases when a bug is fixed without changing the expected API behavior. These version numbers help developers understand the type of change made to the software.
+Software updates can change different parts of a program. For a government AI assistant, the MAJOR version increases when a change to the public API is not compatible with previous versions. The MINOR version increases when a new feature is added in a backwards-compatible way. The PATCH version increases when a bug is fixed without changing the expected API behaviour. These version numbers help developers understand the type of change made to the software.
 
 Resource: Semantic Versioning 2.0.0 - https://semver.org/
 
@@ -43,4 +43,8 @@ Resource: General Data Protection Regulation (GDPR) - https://eur-lex.europa.eu/
 
 ## Misconception in My Track
 
+A common misconception in networking is that IPv6 always provides faster internet than IPv4 because it is newer. However, IPv6 was mainly developed to provide more IP addresses as the number of connected devices grows. Using IPv6 does not automatically make an internet connection faster. Network congestion and connection quality are other factors that affect speed. IPv6 can support more connected devices for a government AI assistant, but it does not guarantee faster service.
+
 ## Open Question
+
+How can network engineers use IPv6 and other technologies to support more devices, reduce congestion, and maintain reliable access to government services as more citizens use an AI assistant? What challenges may arise when moving from IPv4 to IPv6, and how can they be addressed?
