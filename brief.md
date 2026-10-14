@@ -25,9 +25,21 @@ Resource: Preventing Insecure Network Connections - https://developer.apple.com/
 
 ## Networking
 
+Devices on a network use IPv4 or IPv6 addresses to communicate. IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses and provides a much larger number of available addresses. As more devices, including phones and smart devices, connect to the internet, the need for IP addresses grows. IPv6 supports this growth by providing many more addresses for connected devices. This can help a government AI assistant communicate with other systems as the number of connected devices increases.
+
+Resource: RFC 8200 - Internet Protocol, Version 6 (IPv6) Specification - https://www.rfc-editor.org/rfc/rfc8200
+
 ## Cybersecurity
 
+Prompt injection is a security risk that occurs when someone tries to change an AI assistant's behavior by giving it harmful instructions. Direct prompt injection comes from user input, while indirect prompt injection may come from external content, such as documents or websites. These attacks could cause a government AI assistant to provide incorrect answers or perform unsafe actions. To reduce the risk, developers should treat external content as untrusted and limit the assistant's access to sensitive information and actions.
+
+Resource: LLM01: Prompt Injection - https://genai.owasp.org/llmrisk/llm01-prompt-injection/
+
 ## Data
+
+Anonymization and pseudonymization are two methods of protecting personal information. Anonymization removes identifying information so that an individual cannot be identified using reasonably likely methods. Pseudonymization replaces identifying information with codes, although additional information may still link the data to an individual. Properly anonymized data falls outside the scope of the GDPR, while pseudonymized data generally remains personal data. This distinction is important when a government AI assistant handles citizens' data.
+
+Resource: General Data Protection Regulation (GDPR) - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679
 
 ## Misconception in My Track
 
