@@ -27,7 +27,7 @@ Resource: Preventing Insecure Network Connections - https://developer.apple.com/
 
 Devices on a network use IPv4 or IPv6 addresses to communicate. IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses and provides a much larger number of available addresses. As more devices, including phones and smart devices, connect to the internet, the need for IP addresses grows. IPv6 supports this growth by providing many more addresses for connected devices. This can help a government AI assistant communicate with other systems as the number of connected devices increases.
 
-Resource: RFC 8200 - Internet Protocol, Version 6 (IPv6) Specification - https://www.rfc-editor.org/rfc/rfc8200
+Resource: RFC 9386 - IPv6 Deployment Status - https://www.rfc-editor.org/rfc/rfc9386.html
 
 ## Cybersecurity
 
